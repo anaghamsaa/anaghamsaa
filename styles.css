@@ -8,7 +8,7 @@ h2{
     text-align: center;
     display: flex;
 }
-.shopname img
+.shopname > img
 {
     width: 10px;
     height: 30px;

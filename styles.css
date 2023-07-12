@@ -13,6 +13,7 @@ h2{
     display: flex;
     flex-direction: row;
     padding: 50px;
+    gap: 80px;
 }
 .menu img
 {

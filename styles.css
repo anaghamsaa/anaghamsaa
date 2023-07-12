@@ -10,7 +10,7 @@ h2{
 }
 .menu{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .menu img
 {

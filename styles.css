@@ -34,3 +34,9 @@ footer{
     color: darkgrey;
     box-shadow: lightpink;
 }
+.footerheading{
+
+    font-size: 0.8rem;
+
+    font-weight:normal;
+}

@@ -10,6 +10,7 @@ body{
 }
 
 h2{
+    text-align: center;
     background-color: beige;
     font-size: 1.6rem;
 }

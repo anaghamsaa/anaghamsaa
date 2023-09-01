@@ -13,6 +13,9 @@ h1{
     padding: 30px;
     gap: 50px;
     align-content: center;
+
+    height: 100%;
+    width: 100%;
 }
 .modelimages img{
 

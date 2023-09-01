@@ -1,4 +1,12 @@
-.blousemodelimages{
+title{
+    text-align: center;
+    background-color: #ffdde3;
+    height: 20%;
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+.modelimages{
     display:flex; 
     gap:16px;
     height: 80%;
@@ -9,7 +17,7 @@
     padding: 20px;
 
 }
-.blousemodelimages img{
+.modelimages img{
     height: 200px;
     width: 160px;
     border-radius: 8px;

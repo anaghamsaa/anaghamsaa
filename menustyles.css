@@ -12,6 +12,7 @@ h1{
     flex-wrap: wrap;
     padding: 30px;
     gap: 50px;
+    align-content: center;
 }
 .modelimages img{
 

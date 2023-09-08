@@ -27,4 +27,7 @@ h1{
 .backtohome{
     position: absolute;
     left: 5%;
+    text-decoration :none;
+    color: dimgray;
+
 }

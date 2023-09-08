@@ -33,7 +33,7 @@ footer{
     font-size: 0.7rem;
     font-weight: lighter;
     color: black;
-    background-color: lightgrey;
+    background: linear-gradient(to bottom, grey 0%, lightgrey 100%)
     box-shadow: lightpink;
     text-align: center;
     
